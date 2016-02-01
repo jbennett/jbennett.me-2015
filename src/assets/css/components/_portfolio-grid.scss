@@ -1,0 +1,5 @@
+@import "../mixins/grid";
+
+.portfolio-grid {
+	@extend %col-5;
+}

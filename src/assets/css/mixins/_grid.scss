@@ -1,0 +1,9 @@
+@import "../variables/breakpoints";
+
+$grid-columns: 12;
+
+@for $small from 1 through $grid-columns {
+	%col-#{$small} {
+		width: $small / $grid-columns * 100%;
+	}
+}
