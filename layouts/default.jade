@@ -1,10 +1,56 @@
-doctype html
-html(lang="en")
-  head
-    title= pageTitle
+extends base.jade
 
-    link(rel="stylesheet" href="/assets/css/styles.css")
+block body
 
-  body
+	div#header
+		div
+			div
+				a(href="tel://15194668481") (519) 466-8481
+				a(href="mail://jonathan@jbennett.me") jonathan@jbennett.me
+			div
+				a.right(href="/about.html") About me
+				a.right(href="#newsletter-signup") Join my newsletter
 
-    block content
+		div
+			div
+				a(href="/") jbennett.me
+			div
+				include partials/menu.jade
+
+	block content
+
+
+	div
+		div
+			h2 Contact Info
+
+			p 
+				a(href="tel://15194668481") (519) 466-8481
+			p 
+				a(href="mail://jonathan@jbennett.me") jonathan@jbennett.me
+
+		div
+			h2 Social Media
+
+			div
+				form
+					input(type="email" name="email")
+					button
+						Join
+			div
+				ul
+					li
+						a(href="https://twitter.com/jonbca") Twitter
+					li
+						a(href="#") Vimeo
+					li
+						a(href="#") Youtube
+					li
+						a(href="#") Dribbble
+
+	div
+		div
+			p All Rights Reserved &copy; 2016
+
+		div
+			include partials/menu.jade
