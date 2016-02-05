@@ -3,4 +3,6 @@ extends default.jade
 block content
   h1= title
 
-  != contents
+  ul
+    each post in collections.blogPosts
+      li #[a(href="#")= post.title]

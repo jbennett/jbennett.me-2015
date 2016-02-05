@@ -10,6 +10,11 @@ var sass = require('metalsmith-sass');
 Metalsmith(__dirname)
   .use(drafts())
   .use(collections({
+    blogPosts: {
+      pattern: 'posts/*'
+      , sortBy: 'published'
+      , reverse: true
+    },
     portfolioPieces: {
       pattern: 'portfolio/*'
       , sortBy: 'order'
