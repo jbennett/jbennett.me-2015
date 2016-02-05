@@ -1,7 +1,7 @@
 ---
 title: Hosting Drupal on Heroku
-published: Nov 1, 2012
-layout: blog.jade
+published: 2012-11-01
+layout: blog_post.jade
 ---
 
 So I have started looking at hosting some of our client’s website in the cloud. I’ve used Heroku a ton for our internal rails apps, but never for PHP apps. So far I’ve really only struggled with setting up the server config in a reliable way without exposing sensitive server settings globally. Listed below are the settings I use for pulling the DB connection string from the heroku environment variables.

@@ -1,7 +1,7 @@
 ---
 title: Sharing Your Site With MAMP + xip.io
-published: Feb 1, 2013
-layout: blog.jade
+published: 2013-02-01
+layout: blog_post.jade
 ---
 
 Noah Stokes recently posted a [tutorial](http://esbueno.noahstokes.com/post/42930947028/test-your-local-web-sites-on-your-ipad-or-iphone-using) on how to access your development websites using MAMP Pro and [Tyler Hall](http://clickontyler.com/blog/2013/02/view-virtual-hosts-iphone-ipad) showed how to access multiple sites using VirtualHostX. Tyler’s suggestion certainly comes highly recommended, however, with a little elbow grease, you can do the same with MAMP Pro.

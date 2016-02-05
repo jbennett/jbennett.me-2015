@@ -1,7 +1,7 @@
 ---
 title: Making a Drupal Website
-published: Jun 7, 2013
-layout: blog.jade
+published: 2013-06-07
+layout: blog_post.jade
 ---
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/w8y0qoMvcyg?wmode=opaque" frameborder="0" allowfullscreen=""></iframe>

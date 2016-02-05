@@ -1,7 +1,7 @@
 ---
 title: New App Tension
-published: Dec 18, 2015
-layout: blog.jade
+published: 2014-12-18
+layout: blog_post.jade
 ---
 
 So my new app is “done”; well version 1.0.0 is. And by that I mean I just committed version 1.0.1 and fixed a minor edge case issue.

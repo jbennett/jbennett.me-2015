@@ -1,7 +1,7 @@
 ---
 title: Bottom Line Released
-published: Jan 27, 2015
-layout: blog.jade
+published: 2015-01-27
+layout: blog_post.jade
 ---
 
 I guess one of the best ways to get started with 2015 is to launch a new app. Bottom Line went live today. It’s an easy to use income tracker to help you get a 10,000 foot view of your small business’ financial state, especially income tax owed and sales tax collected.

@@ -1,7 +1,7 @@
 ---
 title: SEO
-published: Jul 6, 2013
-layout: blog.jade
+published: 2013-07-06
+layout: blog_post.jade
 ---
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/vzvXlmtt2-Q?wmode=opaque" frameborder="0" allowfullscreen=""></iframe>
