@@ -1,12 +1,8 @@
 ---
-title: Home
-layout: blog.jade
+title: adfs
+layout: home.jade
 ---
 
-# Hello World
+# Welcome to jbennett.me
 
-Whats up?
-
-* one
-* two
-* three
+Your source for custom, hand-crafted solutions to your business problems

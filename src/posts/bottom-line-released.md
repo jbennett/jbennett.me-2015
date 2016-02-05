@@ -1,6 +1,6 @@
 ---
 title: Bottom Line Released
-posted: Jan 27, 2015
+published: Jan 27, 2015
 layout: blog.jade
 ---
 
